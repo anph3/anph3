@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**AnPH13/AnPH13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AnPH3/AnPH3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--  ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=phanatagama.phanatagama) <a href="https://travis-ci.org/Dogfalo/materialize"></a>  -->
    <a href="">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=anph13.anph13">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=anph3.anph3">
          <img src="https://img.shields.io/twitter/follow/myoran2?color=red&label=Twitter&style=flat-square">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCy0Oo_5y2WxohUzzpItCfIw?label=Youtube&style=flat-square">
       </a>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--**Statistik Efektif**-->
 
 <!-- ```
-$ curl --silent https://github.com/anph13.gpg | gpg --import
+$ curl --silent https://github.com/anph3.gpg | gpg --import
 ``` -->
 ```
 $ fb: https://www.facebook.com/myyou.k3/
@@ -31,17 +31,17 @@ $ fb: https://www.facebook.com/myyou.k3/
 
 ## Github Analytics
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=anph13&no-bg=true&no-frame=true&theme=onedark&column=7" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=anph3&no-bg=true&no-frame=true&theme=onedark&column=7" />
 <!--    &rank=SSS,SS,S,AAA,AA,A,B,C -->
 </p>
 
 
 <!--START_SECTION:waka-->
-<!-- ![Anph13 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph13) -->
+<!-- ![Anph3 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph3) -->
 <p align="center">
-<a href="https://github.com/anph13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anph13&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anph13&layout=compact&langs_count=8&theme=midnight-purple"/>
+<a href="https://github.com/anph3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anph3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anph3&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
@@ -59,14 +59,14 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--**My Contribution**
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph13)](https://github.com/LordDashMe/github-contribution-stats/)-->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph3)](https://github.com/LordDashMe/github-contribution-stats/)-->
 
 ## 📊 My Activity on Github
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <!-- <details>  -->
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anph13"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anph13&theme=highcontrast"/></a>
+    <a href="https://github.com/anph3"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anph3&theme=highcontrast"/></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
@@ -127,15 +127,15 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/anph13">
+  <a href="https://github.com/anph3">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-<!--   <a href="https://dev.to/anph13">
+<!--   <a href="https://dev.to/anph3">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a> -->
 	
-<!--   <a href="https://www.linkedin.com/in/anph13/">
+<!--   <a href="https://www.linkedin.com/in/anph3/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a> -->
   
@@ -157,8 +157,8 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 </p>
 
 ## <p align="center">Visitor's count :eyes:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{anph13}/count.svg" alt="anph13 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{anph3}/count.svg" alt="anph3 :: Visitor's Count" /></p>
 
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
-![Anph13 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph13)
+![Anph3 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph3)
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
