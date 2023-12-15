@@ -162,3 +162,5 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
 ![Anph3 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph3)
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/657bfc805145316d250761c0?variant=dark)](https://roadmap.sh)
