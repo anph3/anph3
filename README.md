@@ -17,7 +17,7 @@ Here are some ideas to get you started:
    <a href="">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=anph3.anph3">
          <img src="https://img.shields.io/twitter/follow/myoran2?color=red&label=Twitter&style=flat-square">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCy0Oo_5y2WxohUzzpItCfIw?label=Youtube&style=flat-square">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCkXIIEfXYOv8f-85JDcf48Q?label=Youtube&style=flat-square">
       </a>
 </p>      
 <!--**Statistik Efektif**-->
